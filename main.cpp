@@ -18,10 +18,6 @@ int if_letter_in_vector;
 std::string sentence;
 std::string file_content;
 
-
-
-
-
 void convert_binary() {
 
     size = static_cast<int>(single_letters.size());
